@@ -11,7 +11,7 @@
 > Get User Followers Count
 >
 > Get User Followings Count
-    >
+>
 > Advance Details About Followers & Followings
 >
 > Get Deatils About Followers that Don't Following Your
@@ -29,6 +29,7 @@
 ## Technology
 - Python
 <br>
+
 > Instabot Module
 >
 > OS Module
